@@ -1,6 +1,6 @@
 # Hi there 👋
 
-ℹ️ My name is Andrey. Lead DevOps/SRE engineer at EPAM.
+ℹ️ I'm Andrey a Lead DevOps/SRE engineer at EPAM.
 
 📌 Atlanta, US.
 
