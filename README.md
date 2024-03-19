@@ -5,7 +5,7 @@
 📌 Atlanta, US.
 
 💼 Worked:
-- Engineered and led the infra teams at ([immo](https://immo.ru/)
+- Engineered and led the infra teams at [immo](https://immo.ru/)
 - Headed Systems Architecture at [iponweb](https://www.iponweb.com/solutions/) (accuired by Criteo)
 - Worked on building the development processes at [luxsoft](https://www.luxsoft.com/)
 - Enhancing the cloud migrations and devops at [epam](https://www.epam.com/).
