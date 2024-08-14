@@ -1,6 +1,6 @@
 # Hi there 👋
 
-ℹ️ I'm Andrey a Lead DevOps/SRE engineer at EPAM.
+ℹ️ I'm Andrey a Senior Systems Architect/SRE at Hexaware.
 
 📌 Atlanta, US.
 
