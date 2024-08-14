@@ -10,6 +10,7 @@
 - Worked on building the development processes at [luxoft](https://www.luxoft.com/)
 - Enhancing the cloud migrations and devops at [epam](https://www.epam.com/)
 - Developing for the cloud at [priceline](https://www.priceline.com/)
+- Developing at [Hexaware](https://www.hexaware.com/)
 
 🎓 Moscow State University of Forestry (now Bauman Moscow State Technical University), MSc in Computer systems and networks.
 
