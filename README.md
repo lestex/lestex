@@ -12,7 +12,7 @@
 - Developed for the cloud at [priceline](https://www.priceline.com/)
 - Developing at [Hexaware](https://www.hexaware.com/)
 
-🎓 Moscow State University of Forestry (now Bauman Moscow State Technical University), MSc in Computer systems and networks.
+🎓 MSc in Computer systems and networks.
 
 ❤️ Music (🥁 -> 🎹+🎙), cycling, hiking, snowboarding.
 
